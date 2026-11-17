@@ -1,3 +1,5 @@
+//Implement from scratch: write a complete program fragment (declarations included) that finds the minimum element of {8, -3, 5, -10, 6}.
+
 #include <iostream>
 using namespace std;
 int main(){
